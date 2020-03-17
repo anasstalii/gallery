@@ -151,6 +151,7 @@ export default {
 }
 .image {
   max-width: 80px;
+  height: 100px !important;
 }
 .cursor-pointer {
   cursor: pointer;
